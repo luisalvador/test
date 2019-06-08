@@ -4,6 +4,7 @@ public class Main {
 
     // Returns the distance between the two closest numbers.
     static int distClosestNumbers(int[] numbers) {
+        MouseEvent te = new MouseEvent();
         // try to implement it!
         int minDist=9999;
         ArrayList<Integer> lista = new ArrayList<Integer>(numbers.length);
