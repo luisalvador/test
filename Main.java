@@ -30,4 +30,5 @@ public class Main {
         int result = distClosestNumbers(testArray);
         System.out.println("Minima distancia = " + result); // Expected result is 1 (the 2 closest numbers are 98 and 99)
     }
+    
 }
